@@ -2,7 +2,8 @@
 
 Fakultet informatike u Puli
 
-Dobrodošli u repozitorij **Case study: Oprema d.d.**, koji prati izradu skladišta podataka u okviru kolegija. Ovaj repozitorij sadrži sve potrebne podatke i kod za implementaciju skladišta podataka.
+Dobrodošli u repozitorij **Case study: Oprema d.d.**, koji prati izradu skladišta podataka u okviru kolegija. 
+Ovaj repozitorij sadrži sve potrebne podatke i kod za implementaciju skladišta podataka.
 
 ---
 
@@ -24,11 +25,11 @@ Studenti mogu prilagoditi tehnologije i alate prema svojim potrebama.
 
 Repozitorij je organiziran u numerirane direktorije, gdje svaki direktorij predstavlja **checkpoint** u izradi skladišta podataka:
 
-- **1_eda/** - Eksplorativna analiza podataka (EDA)
-- **2_relational_model/** - Dizajn i implementacija relacijskog modela
-- **3_dimnesional_model/** - Kreiranje dimenzijskog modela podataka
-- **4_etl/** - Kreiranje ETL procesa i punjenje dimenzijskog modela
-- **5_visualization/** - Analiza podataka i vizualizacija
+- **1_eda/** - Vježbe 1 - Eksplorativna analiza podataka (EDA)
+- **2_relational_model/** - Vježbe 2 - Dizajn i implementacija relacijskog modela
+- **3_dimnesional_model/** - Vježbe 3 - Kreiranje dimenzijskog modela podataka
+- **4_etl/** - Vježbe 4 - Kreiranje ETL procesa i punjenje dimenzijskog modela
+- **5_visualization/** - Vježbe 5 - Analiza podataka i vizualizacija
 
 Svaka faza sadrži odgovarajuće skripte, SQL upite koji su također numerirani u redoslijedu izvršavanja. Ukoliko je neka skripta opcionlana to je navedeno na početku u komentarima.
 
@@ -80,7 +81,9 @@ pip install -r requirements.txt
 
 ## 📌 Napomena
 
-Ovaj repozitorij sadrži **izvorni kod i podatke** potrebne za repliciranje case study-a. Studenti trebaju **prilagoditi kod** prema vlastitim podacima i potrebama projekta.
+Ovaj repozitorij sadrži **izvorni kod i podatke** potrebne za repliciranje case study-a. 
+
+Studenti trebaju **prilagoditi kod** prema vlastitim podacima i potrebama projekta.
 
 Za sva pitanja ili prijedloge, slobodno se obratite putem GitHub Issues sekcije. Studenti su također pozvani da doprinesu razvoju repozitorija putem pull requestova (PRs), gdje mogu predlagati poboljšanja, ispravke i nove funkcionalnosti.
 
